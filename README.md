@@ -1,2 +1,2 @@
-# JARVIS
-JARVIS bot using Python
+# AI-BOT
+AI-BOT bot using Python
